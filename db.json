@@ -71,6 +71,42 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 2758549,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "aaaa",
+      "description": "dddd",
+      "location": "adad",
+      "date": "2022-07-02T18:10:00.000Z",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 2177049,
+      "user": {
+        "id": "theMaster",
+        "name": "Oleg Yerokhin"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "theMaster",
+        "name": "Oleg Yerokhin"
+      },
+      "title": "Is it work?",
+      "description": "I hope so.",
+      "location": "Somewhere only we know",
+      "date": "2022-08-05T18:16:00.000Z",
+      "time": "20:00",
+      "attendees": []
     }
   ]
 }
