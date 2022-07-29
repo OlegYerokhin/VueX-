@@ -107,6 +107,24 @@
       "date": "2022-08-05T18:16:00.000Z",
       "time": "20:00",
       "attendees": []
+    },
+    {
+      "id": 2843658,
+      "user": {
+        "id": "theMaster",
+        "name": "Oleg Yerokhin"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "theMaster",
+        "name": "Oleg Yerokhin"
+      },
+      "title": "House of PAIN!",
+      "description": "Take random house and turning it in HOUSE OF PAIN",
+      "location": "You will see",
+      "date": "2022-08-05T17:58:00.000Z",
+      "time": "2:00",
+      "attendees": []
     }
   ]
 }
